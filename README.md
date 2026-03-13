@@ -4,7 +4,7 @@
 
 <br/>
 
-> *✨ desarrolladora en construcción · apasionada de los datos y la seguridad · monstesito, mangoloco🥭💙*
+> *✨ desarrolladora en construcción · apasionada de los datos y la seguridad · sin mangoloco, rera vez funciono💜*
 
 <br/>
 
@@ -24,8 +24,8 @@
 
 🎓 **Doble grado DAM + DAW** — terminando **1º año** con todo 💅  
 🔐 Me flipa la **ciberseguridad** y el mundo de los **datos** 🗄️  
-🌱 Aprendiendo sin parar porque el conocimiento no ocupa lugar (de hecho es de lo que más ocupa, pero es lo que dicen)📚  
-☕ Trabajo mejor con café y una playlist de fondo 🎶  
+🌱 Aprendiendo sin parar porque el conocimiento no ocupa lugar (o eso dicen, porque si que ocupa, pero eso es otro tema) 📚  
+🩷 Trabajo mejor con monster y algún podcast random de fondo 🎶  
 💌 Creo en el código limpio, los buenos commits y los colores bonitos 🌷  
 
 </div>
@@ -44,14 +44,14 @@
 ![PHP](https://img.shields.io/badge/🐘_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/🗄️_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**— web y lenguaje de marcas —**
+**— estilo y marcado —**
 
 ![CSS3](https://img.shields.io/badge/💅_CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/🌐_HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![XML](https://img.shields.io/badge/📄_XML-FF6600?style=for-the-badge&logoColor=white)
 ![Markdown](https://img.shields.io/badge/📝_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-**— entornos y demás —**
+**— entornos y herramientas —**
 
 ![VS Code](https://img.shields.io/badge/💙_VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/🌑_Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -60,15 +60,13 @@
 ![MySQL](https://img.shields.io/badge/🐬_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/🎨_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/🖤_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 </div>
 
 ---
 
 <div align="center">
 
-## 💜 lo que me apasiona de todo esto 💜
+## 💜 lo que me enamora de este mundo 💜
 
 </div>
 
@@ -112,15 +110,15 @@
 
 <div align="center">
 
-## 🎀 objetivos de 2026 🎀
+## 🎀 metas 2026 🎀
 
 | estado | objetivo |
 |:---:|---|
 | ✅ | Sobrevivir 1º año con nota 🌷 |
-| ✅ | Dominar Java y JS (casi jeje) (últimamente me está gustando más JS) 💪 |
+| ✅ | Dominar Java y JS (casi jeje) 💪 |
 | 🌸 | Profundizar en Python para datos 🐍 |
 | 🔒 | Primera cert de ciberseguridad 🛡️ |
-| 💡 | Subir proyectos propios a GitHub 🚀 |
+| 💡 | Subir proyectos propios a GitHub (más) 🚀 |
 | 🌷 | Hacer prácticas y aprender en el mundo real ✨ |
 
 </div>
@@ -136,7 +134,9 @@
 
 <br/>
 
-*🌸 Siempre abierta a colaborar, aprender y crecer 🌸*
+*🌸 Siempre abierta a colaborar, aprender y crecer 🌸* 
+
+última actualización: 13 de Marzo de 2026
 
 <br/>
 
