@@ -61,10 +61,10 @@ open_to:     FCT internships · Remote roles · International opportunities
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🌐 [**VIDA**](https://github.com/LNa005/VIDA) | JavaScript | [Una línea sobre qué hace] |
+| 🌐 [**VIDA**](https://github.com/LNa005/VIDA) | JavaScript | |
 | ☕ [**CafeteriaOslo**](https://github.com/LNa005/CafeteriaOslo) | HTML · CSS · JS | Web de cafetería ficticia · proyecto colaborativo |
 | 🏄 [**Ventura Surf Co.**](https://github.com/LNa005/ventura-surf-co) | HTML · CSS | Landing page responsive |
-| 🎨 [**Proyecto Cursor**](https://github.com/LNa005/proyecto-cursor) | CSS | [Una línea sobre qué hace] |
+| 🎨 [**Proyecto Cursor**](https://github.com/LNa005/proyecto-cursor) | CSS | |
 
 ---
 
