@@ -20,7 +20,7 @@ I'm a **Computer Science student** pursuing a double degree in **Multi-platform 
 I care about clean code, well-designed databases, and interfaces that are functional *and* pleasant to look at. Currently looking for **FCT internship opportunities** for the 2026/2027 academic year.
 
 ![Location](https://img.shields.io/badge/📍_Gran_Canaria,_Spain-🇪🇸-red?style=flat-square)
-![Education](https://img.shields.io/badge/🎓_DAM_+_DAW-1st_Year-blue?style=flat-square)
+![Education](https://img.shields.io/badge/🎓_DAM_+_DAW-2st_Year-blue?style=flat-square)
 ![Focus](https://img.shields.io/badge/🔭_Focus-Backend_·_Full--Stack_·_Databases-6f42c1?style=flat-square)
 ![Learning](https://img.shields.io/badge/🌱_Learning-Python_·_Spring_Boot_·_Cybersec-0075ca?style=flat-square)
 ![Languages](https://img.shields.io/badge/🗣_Spanish_(native)_·_English_(working)-informational?style=flat-square)
@@ -88,8 +88,8 @@ I care about clean code, well-designed databases, and interfaces that are functi
 
 If you're a recruiter, fellow student, or just want to chat about code, projects or tech in general — reach out!
 
-📧 **Email:** [16eleeenaa@gmail.com](mailto:16eleeenaa@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/TU-USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:16eleeenaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-granda-valerón-4b5575408/)
 
 <p align="center"><em>🌸 Always open to collaborate, learn and grow 🌸</em></p>
 
