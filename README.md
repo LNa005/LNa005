@@ -19,14 +19,12 @@ I'm a **Computer Science student** pursuing a double degree in **Multi-platform 
 
 I care about clean code, well-designed databases, and interfaces that are functional *and* pleasant to look at. Currently looking for **FCT internship opportunities** for the 2026/2027 academic year.
 
-```yaml
-location:    Gran Canaria, Spain 🇪🇸
-education:   Double Degree DAM + DAW (1st year)
-focus:       Backend · Full-Stack Web · Databases
-learning:    Python for data · Spring Boot · Cybersecurity fundamentals
-languages:   Spanish (native) · English (working proficiency)
-open_to:     FCT internships · Remote roles · International opportunities
-```
+![Location](https://img.shields.io/badge/📍_Gran_Canaria,_Spain-🇪🇸-red?style=flat-square)
+![Education](https://img.shields.io/badge/🎓_DAM_+_DAW-1st_Year-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/🔭_Focus-Backend_·_Full--Stack_·_Databases-6f42c1?style=flat-square)
+![Learning](https://img.shields.io/badge/🌱_Learning-Python_·_Spring_Boot_·_Cybersec-0075ca?style=flat-square)
+![Languages](https://img.shields.io/badge/🗣_Spanish_(native)_·_English_(working)-informational?style=flat-square)
+![Open to](https://img.shields.io/badge/✨_Open_to-FCT_Internships_·_Remote_·_International-brightgreen?style=flat-square)
 
 ---
 
