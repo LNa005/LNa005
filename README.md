@@ -71,7 +71,6 @@ I care about clean code, well-designed databases, and interfaces that are functi
   <img src="https://github-readme-stats.vercel.app/api?username=LNa005&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=cdb4db&icon_color=ffb3c6&text_color=9d4edd&ring_color=ffb3c6" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNa005&layout=compact&hide_border=true&bg_color=fff0f5&title_color=cdb4db&text_color=9d4edd" height="165"/>
 </p>
-
 ---
 
 ## 🎯 Currently learning
