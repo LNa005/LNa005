@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb3c6,ffc8dd,cdb4db,bde0fe&height=180&section=header&text=hi,%20I'm%20Elena%20%F0%9F%8C%B8&fontSize=42&fontColor=ffffff&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb3c6,ffc8dd,cdb8db,bde0fe&height=180&section=header&text=hi,%20I'm%20Elena%20%F0%9F%8C%B8&fontSize=42&fontColor=ffffff&fontAlignY=38)
 
 <p align="center">
   <em>Backend & Full-Stack Developer in training · DAM + DAW Student</em><br/>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:16eleeenaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/elena-granda-valerón-4b5575408/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=LNa005&style=for-the-badge&color=ffb3c6&label=visitas"/>
 </p>
 
@@ -20,7 +20,7 @@ I'm a **Computer Science student** pursuing a double degree in **Multi-platform 
 I care about clean code, well-designed databases, and interfaces that are functional *and* pleasant to look at. Currently looking for **FCT internship opportunities** for the 2026/2027 academic year.
 
 ![Location](https://img.shields.io/badge/📍_Gran_Canaria,_Spain-🇪🇸-red?style=flat-square)
-![Education](https://img.shields.io/badge/🎓_DAM_+_DAW-2st_Year-blue?style=flat-square)
+![Education](https://img.shields.io/badge/🎓_DAM_+_DAW-2nd_Year-blue?style=flat-square)
 ![Focus](https://img.shields.io/badge/🔭_Focus-Backend_·_Full--Stack_·_Databases-6f42c1?style=flat-square)
 ![Learning](https://img.shields.io/badge/🌱_Learning-Python_·_Spring_Boot_·_Cybersec-0075ca?style=flat-square)
 ![Languages](https://img.shields.io/badge/🗣_Spanish_(native)_·_English_(working)-informational?style=flat-square)
@@ -55,14 +55,13 @@ I care about clean code, well-designed databases, and interfaces that are functi
 
 ## 🚀 Featured Projects
 
-> 🩷 *Estos son mis proyectos destacados. Cada repo tiene su propio README con detalles.*
+> 🩷 *Each project has its own README with details.*
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🌐 [**VIDA**](https://github.com/LNa005/VIDA) | JavaScript | |
-| ☕ [**CafeteriaOslo**](https://github.com/LNa005/CafeteriaOslo) | HTML · CSS · JS | Web de cafetería ficticia · proyecto colaborativo |
-| 🏄 [**Ventura Surf Co.**](https://github.com/LNa005/ventura-surf-co) | HTML · CSS | Landing page responsive |
-| 🎨 [**Proyecto Cursor**](https://github.com/LNa005/proyecto-cursor) | CSS | |
+| ⚙️ [**StateEngine**](https://github.com/LNa005/StateEngine) | Java | Declarative FSM interpreter · Compiler architecture |
+| ☕ [**CafeteriaOslo**](https://github.com/LNa005/CafeteriaOslo) | HTML · CSS · JS | Fictional cafeteria website · collaborative project |
+| 🏄 [**Ventura Surf Co.**](https://github.com/LNa005/ventura-surf-co) | HTML · CSS | Responsive landing page |
 
 ---
 
