@@ -63,21 +63,13 @@ I care about clean code, well-designed databases, and interfaces that are functi
 | ☕ [**CafeteriaOslo**](https://github.com/LNa005/CafeteriaOslo) | HTML · CSS · JS | Fictional cafeteria website · collaborative project |
 | 🏄 [**Ventura Surf Co.**](https://github.com/LNa005/ventura-surf-co) | HTML · CSS | Responsive landing page |
 
----
-
-## 🕹️ Arcade Zone
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=16&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=40&lines=%E2%9C%A8+Welcome+to+my+dev+space+%E2%9C%A8;%F0%9F%8E%AE+Insert+coin+to+explore...;%F0%9F%8C%B8+Loading+creative+solutions..." alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.up.railway.app/graph?username=LNa005&bg_color=fff0f5&color=ffb3c6&line=cdb4db&point=bde0fe&area=true&hide_border=true" width="100%" />
-</p>
-
----
+--
 
 ## 🎯 Currently learning
 
